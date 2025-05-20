@@ -1,0 +1,8 @@
+Talep Adresleri:
+Konum 1 : (5,1) - Adres : 00007FF65E6BD7A0
+Konum 2 : (6,4) - Adres : 00007FF65E6BD7D4
+Konum 3 : (5,9) - Adres : 00007FF65E6BD7C0
+Konum 4 : (7,8) - Adres : 00007FF65E6BD80C
+Konum 5 : (9,6) - Adres : 00007FF65E6BD854
+
+Gidiþ-Dönüþ Toplam Yol: 1289
